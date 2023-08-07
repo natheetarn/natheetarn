@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Natheetarn panyakorn 
-- 🌱 I’m currently a 2nd year student in the Software engineering program at KMITL(King Monkut Institute Of Technology Ladkrabang)
-- 💞️ I’m using this repository to keep my projects I made in free time.
-- 📫 You can find me on facebook: Natheetarn Panyakorn.
+-  Hi, I’m Natheetarn panyakorn 
+-  I’m currently a 3rd year student in the Software engineering program at KMITL(King Monkut Institute Of Technology Ladkrabang)
 
 <!---
 natheetarn/natheetarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
